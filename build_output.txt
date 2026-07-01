@@ -1,0 +1,173 @@
+
+> build
+> vite build
+
+[36mvite v7.3.2 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32m✓[39m 2461 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/client/[22m[32m.assetsignore                               [39m[1m[2m  0.02 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/bwest-logo-zA9P2w1A.jpg              [39m[1m[2m 53.85 kB[22m[1m[22m
+[2mdist/client/[22m[35massets/styles-Jps5d9Xt.css                  [39m[1m[2m 83.90 kB[22m[1m[22m[2m │ gzip:  13.75 kB[22m
+[2mdist/client/[22m[36massets/bwest-logo-BsAJ-Z7S.js               [39m[1m[2m  0.06 kB[22m[1m[22m[2m │ gzip:   0.08 kB[22m
+[2mdist/client/[22m[36massets/student-CNtrQcpi.js                  [39m[1m[2m  0.10 kB[22m[1m[22m[2m │ gzip:   0.11 kB[22m
+[2mdist/client/[22m[36massets/registrar-CNtrQcpi.js                [39m[1m[2m  0.10 kB[22m[1m[22m[2m │ gzip:   0.11 kB[22m
+[2mdist/client/[22m[36massets/finance-CNtrQcpi.js                  [39m[1m[2m  0.10 kB[22m[1m[22m[2m │ gzip:   0.11 kB[22m
+[2mdist/client/[22m[36massets/faculty-CNtrQcpi.js                  [39m[1m[2m  0.10 kB[22m[1m[22m[2m │ gzip:   0.11 kB[22m
+[2mdist/client/[22m[36massets/admin-CNtrQcpi.js                    [39m[1m[2m  0.10 kB[22m[1m[22m[2m │ gzip:   0.11 kB[22m
+[2mdist/client/[22m[36massets/x-C2bTcBrU.js                        [39m[1m[2m  0.17 kB[22m[1m[22m[2m │ gzip:   0.16 kB[22m
+[2mdist/client/[22m[36massets/clock-BJulL5Or.js                    [39m[1m[2m  0.18 kB[22m[1m[22m[2m │ gzip:   0.17 kB[22m
+[2mdist/client/[22m[36massets/search-DSj99Ese.js                   [39m[1m[2m  0.18 kB[22m[1m[22m[2m │ gzip:   0.18 kB[22m
+[2mdist/client/[22m[36massets/circle-check-CKeStQK4.js             [39m[1m[2m  0.19 kB[22m[1m[22m[2m │ gzip:   0.18 kB[22m
+[2mdist/client/[22m[36massets/trending-up-CrJyN-kh.js              [39m[1m[2m  0.19 kB[22m[1m[22m[2m │ gzip:   0.18 kB[22m
+[2mdist/client/[22m[36massets/circle-check-big-Bh8MHTQL.js         [39m[1m[2m  0.20 kB[22m[1m[22m[2m │ gzip:   0.19 kB[22m
+[2mdist/client/[22m[36massets/circle-x-_tagBx3p.js                 [39m[1m[2m  0.21 kB[22m[1m[22m[2m │ gzip:   0.19 kB[22m
+[2mdist/client/[22m[36massets/credit-card-B9gADpf1.js              [39m[1m[2m  0.22 kB[22m[1m[22m[2m │ gzip:   0.20 kB[22m
+[2mdist/client/[22m[36massets/dollar-sign-C1-KJXqR.js              [39m[1m[2m  0.23 kB[22m[1m[22m[2m │ gzip:   0.20 kB[22m
+[2mdist/client/[22m[36massets/user-check-CNZb5S1B.js               [39m[1m[2m  0.25 kB[22m[1m[22m[2m │ gzip:   0.22 kB[22m
+[2mdist/client/[22m[36massets/database-DypGhQJg.js                 [39m[1m[2m  0.26 kB[22m[1m[22m[2m │ gzip:   0.21 kB[22m
+[2mdist/client/[22m[36massets/circle-alert-COy_akxk.js             [39m[1m[2m  0.26 kB[22m[1m[22m[2m │ gzip:   0.20 kB[22m
+[2mdist/client/[22m[36massets/chart-column-XPF3XuvY.js             [39m[1m[2m  0.26 kB[22m[1m[22m[2m │ gzip:   0.20 kB[22m
+[2mdist/client/[22m[36massets/calendar-CYJdhFR7.js                 [39m[1m[2m  0.27 kB[22m[1m[22m[2m │ gzip:   0.22 kB[22m
+[2mdist/client/[22m[36massets/triangle-alert-oCITqJu2.js           [39m[1m[2m  0.28 kB[22m[1m[22m[2m │ gzip:   0.23 kB[22m
+[2mdist/client/[22m[36massets/shield-Bs9Z49nA.js                   [39m[1m[2m  0.28 kB[22m[1m[22m[2m │ gzip:   0.24 kB[22m
+[2mdist/client/[22m[36massets/book-open-B2jr_k1S.js                [39m[1m[2m  0.29 kB[22m[1m[22m[2m │ gzip:   0.22 kB[22m
+[2mdist/client/[22m[36massets/wallet-CrS03QqZ.js                   [39m[1m[2m  0.30 kB[22m[1m[22m[2m │ gzip:   0.22 kB[22m
+[2mdist/client/[22m[36massets/users-d_ZL1w0f.js                    [39m[1m[2m  0.32 kB[22m[1m[22m[2m │ gzip:   0.24 kB[22m
+[2mdist/client/[22m[36massets/shield-check-Dcof4q7L.js             [39m[1m[2m  0.33 kB[22m[1m[22m[2m │ gzip:   0.26 kB[22m
+[2mdist/client/[22m[36massets/trash-2-01z1IRxV.js                  [39m[1m[2m  0.34 kB[22m[1m[22m[2m │ gzip:   0.23 kB[22m
+[2mdist/client/[22m[36massets/graduation-cap-Df5IYHyl.js           [39m[1m[2m  0.34 kB[22m[1m[22m[2m │ gzip:   0.26 kB[22m
+[2mdist/client/[22m[36massets/file-text-CE-YMBn2.js                [39m[1m[2m  0.40 kB[22m[1m[22m[2m │ gzip:   0.26 kB[22m
+[2mdist/client/[22m[36massets/clipboard-list-C9KpT4d8.js           [39m[1m[2m  0.42 kB[22m[1m[22m[2m │ gzip:   0.27 kB[22m
+[2mdist/client/[22m[36massets/sparkles-DEz-9lOQ.js                 [39m[1m[2m  0.51 kB[22m[1m[22m[2m │ gzip:   0.29 kB[22m
+[2mdist/client/[22m[36massets/subjects-store-CyTKfWMO.js           [39m[1m[2m  0.68 kB[22m[1m[22m[2m │ gzip:   0.38 kB[22m
+[2mdist/client/[22m[36massets/settings-DRm5xGf8.js                 [39m[1m[2m  0.74 kB[22m[1m[22m[2m │ gzip:   0.38 kB[22m
+[2mdist/client/[22m[36massets/registrations-store-CNc9rVYF.js      [39m[1m[2m  0.91 kB[22m[1m[22m[2m │ gzip:   0.44 kB[22m
+[2mdist/client/[22m[36massets/StatCard-t3vS_IWB.js                 [39m[1m[2m  0.97 kB[22m[1m[22m[2m │ gzip:   0.48 kB[22m
+[2mdist/client/[22m[36massets/grades-store-Db78RZ2l.js             [39m[1m[2m  1.11 kB[22m[1m[22m[2m │ gzip:   0.51 kB[22m
+[2mdist/client/[22m[36massets/createLucideIcon-DIVeQuBb.js         [39m[1m[2m  1.38 kB[22m[1m[22m[2m │ gzip:   0.78 kB[22m
+[2mdist/client/[22m[36massets/registrar.index-CBhVGshg.js          [39m[1m[2m  2.41 kB[22m[1m[22m[2m │ gzip:   1.05 kB[22m
+[2mdist/client/[22m[36massets/api-1aZ8cBNU.js                      [39m[1m[2m  2.46 kB[22m[1m[22m[2m │ gzip:   0.74 kB[22m
+[2mdist/client/[22m[36massets/student.enrollment-Bzh10uFN.js       [39m[1m[2m  2.88 kB[22m[1m[22m[2m │ gzip:   0.92 kB[22m
+[2mdist/client/[22m[36massets/finance.reports-CzgUWrDn.js          [39m[1m[2m  3.14 kB[22m[1m[22m[2m │ gzip:   1.23 kB[22m
+[2mdist/client/[22m[36massets/finance.payments-CjwPXcRQ.js         [39m[1m[2m  3.22 kB[22m[1m[22m[2m │ gzip:   1.24 kB[22m
+[2mdist/client/[22m[36massets/admin.analytics-ByByJT1W.js          [39m[1m[2m  3.23 kB[22m[1m[22m[2m │ gzip:   1.23 kB[22m
+[2mdist/client/[22m[36massets/admin.security-ChNIEnzT.js           [39m[1m[2m  3.28 kB[22m[1m[22m[2m │ gzip:   1.35 kB[22m
+[2mdist/client/[22m[36massets/admin.settings-BKLiUdU4.js           [39m[1m[2m  3.35 kB[22m[1m[22m[2m │ gzip:   1.33 kB[22m
+[2mdist/client/[22m[36massets/finance.index-D6mcvEYf.js            [39m[1m[2m  3.37 kB[22m[1m[22m[2m │ gzip:   1.29 kB[22m
+[2mdist/client/[22m[36massets/registrar.records-CBRto38X.js        [39m[1m[2m  3.75 kB[22m[1m[22m[2m │ gzip:   1.25 kB[22m
+[2mdist/client/[22m[36massets/registrar.enrollment-DTwZIVoh.js     [39m[1m[2m  3.91 kB[22m[1m[22m[2m │ gzip:   1.45 kB[22m
+[2mdist/client/[22m[36massets/faculty.index-CXvLfNkN.js            [39m[1m[2m  3.93 kB[22m[1m[22m[2m │ gzip:   1.40 kB[22m
+[2mdist/client/[22m[36massets/button-Da8FLkSQ.js                   [39m[1m[2m  3.97 kB[22m[1m[22m[2m │ gzip:   1.78 kB[22m
+[2mdist/client/[22m[36massets/finance.accounts-Tn1uaisi.js         [39m[1m[2m  4.24 kB[22m[1m[22m[2m │ gzip:   1.43 kB[22m
+[2mdist/client/[22m[36massets/faculty.attendance-0LR0cAK5.js       [39m[1m[2m  4.53 kB[22m[1m[22m[2m │ gzip:   1.67 kB[22m
+[2mdist/client/[22m[36massets/registrar.transcripts-D_LXNKcL.js    [39m[1m[2m  4.76 kB[22m[1m[22m[2m │ gzip:   1.55 kB[22m
+[2mdist/client/[22m[36massets/student.schedule-BAwxuoX2.js         [39m[1m[2m  4.88 kB[22m[1m[22m[2m │ gzip:   1.72 kB[22m
+[2mdist/client/[22m[36massets/index-DHU-iS-a.js                    [39m[1m[2m  5.11 kB[22m[1m[22m[2m │ gzip:   2.02 kB[22m
+[2mdist/client/[22m[36massets/student.grades-CxzBxPXw.js           [39m[1m[2m  5.35 kB[22m[1m[22m[2m │ gzip:   1.66 kB[22m
+[2mdist/client/[22m[36massets/admin.users-B2Hech_q.js              [39m[1m[2m  5.56 kB[22m[1m[22m[2m │ gzip:   1.84 kB[22m
+[2mdist/client/[22m[36massets/registrar.registrations-Da3kOFyR.js  [39m[1m[2m  5.94 kB[22m[1m[22m[2m │ gzip:   2.11 kB[22m
+[2mdist/client/[22m[36massets/student.index-B43AC59J.js            [39m[1m[2m  6.18 kB[22m[1m[22m[2m │ gzip:   1.97 kB[22m
+[2mdist/client/[22m[36massets/admin.index-DwRz-Nl5.js              [39m[1m[2m  7.43 kB[22m[1m[22m[2m │ gzip:   2.71 kB[22m
+[2mdist/client/[22m[36massets/finance.clearance-eV2iidRs.js        [39m[1m[2m  9.28 kB[22m[1m[22m[2m │ gzip:   2.98 kB[22m
+[2mdist/client/[22m[36massets/faculty.classes-DUxpbF04.js          [39m[1m[2m 11.16 kB[22m[1m[22m[2m │ gzip:   3.64 kB[22m
+[2mdist/client/[22m[36massets/index-CpoA1TzD.js                    [39m[1m[2m 23.98 kB[22m[1m[22m[2m │ gzip:   6.21 kB[22m
+[2mdist/client/[22m[36massets/utils-DDt1maD9.js                    [39m[1m[2m 26.69 kB[22m[1m[22m[2m │ gzip:   8.42 kB[22m
+[2mdist/client/[22m[36massets/student.finances-_D_n0-UK.js         [39m[1m[2m 26.88 kB[22m[1m[22m[2m │ gzip:   8.86 kB[22m
+[2mdist/client/[22m[36massets/index--YpYbtKY.js                    [39m[1m[2m 27.69 kB[22m[1m[22m[2m │ gzip:  10.68 kB[22m
+[2mdist/client/[22m[36massets/dashboard-CzvC3l7M.js                [39m[1m[2m 30.89 kB[22m[1m[22m[2m │ gzip:   9.02 kB[22m
+[2mdist/client/[22m[36massets/index-Bhd5NJA6.js                    [39m[1m[2m 33.78 kB[22m[1m[22m[2m │ gzip:  11.43 kB[22m
+[2mdist/client/[22m[36massets/faculty.grades-D52-jaXn.js           [39m[1m[2m 34.82 kB[22m[1m[22m[2m │ gzip:  10.98 kB[22m
+[2mdist/client/[22m[36massets/register-WhHLt2pf.js                 [39m[1m[2m 62.23 kB[22m[1m[22m[2m │ gzip:  14.87 kB[22m
+[2mdist/client/[22m[36massets/proxy-BP67bDcN.js                    [39m[1m[2m122.00 kB[22m[1m[22m[2m │ gzip:  39.83 kB[22m
+[2mdist/client/[22m[36massets/index-CbAOeSDc.js                    [39m[1m[2m336.40 kB[22m[1m[22m[2m │ gzip: 107.16 kB[22m
+[32m✓ built in 8.98s[39m
+[36mvite v7.3.2 [32mbuilding ssr environment for production...[36m[39m
+transforming...
+[32m✓[39m 2509 modules transformed.
+rendering chunks...
+[2mdist/server/[22m[32mwrangler.json                                          [39m[1m[2m  1.30 kB[22m[1m[22m
+[2mdist/server/[22m[32m.vite/manifest.json                                    [39m[1m[2m 28.76 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/bwest-logo-zA9P2w1A.jpg                         [39m[1m[2m 53.85 kB[22m[1m[22m
+[2mdist/server/[22m[35massets/styles-Jps5d9Xt.css                             [39m[1m[2m 83.90 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/start-HYkvq4Ni.js                               [39m[1m[2m  0.06 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/bwest-logo-2PK8h8pO.js                          [39m[1m[2m  0.08 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/__23tanstack-start-plugin-adapters-Cwee5PKy.js  [39m[1m[2m  0.14 kB[22m[1m[22m
+[2mdist/server/[22m[36mindex.js                                               [39m[1m[2m  0.21 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/x-CLgYq7Y4.js                                   [39m[1m[2m  0.25 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/clock-BE2ZrOWy.js                               [39m[1m[2m  0.28 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/search-CEQLwKgU.js                              [39m[1m[2m  0.29 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/trending-up-CtULtluk.js                         [39m[1m[2m  0.30 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/student-BbZZ9-o4.js                             [39m[1m[2m  0.30 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/registrar-BbZZ9-o4.js                           [39m[1m[2m  0.30 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/finance-BbZZ9-o4.js                             [39m[1m[2m  0.30 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/faculty-BbZZ9-o4.js                             [39m[1m[2m  0.30 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin-BbZZ9-o4.js                               [39m[1m[2m  0.30 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/circle-check-CQ_9p0YL.js                        [39m[1m[2m  0.31 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/circle-check-big-CXpfYvdK.js                    [39m[1m[2m  0.32 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/circle-x-upbhFwbH.js                            [39m[1m[2m  0.34 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/credit-card-AdYUCbuU.js                         [39m[1m[2m  0.34 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/dollar-sign-BYMj3j1v.js                         [39m[1m[2m  0.35 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/user-check-g73C6CkA.js                          [39m[1m[2m  0.38 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/database-DhFWu_rS.js                            [39m[1m[2m  0.38 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/chart-column-Bha51nIL.js                        [39m[1m[2m  0.39 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/circle-alert-Ctq5sHXx.js                        [39m[1m[2m  0.40 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/calendar-CwtIToxT.js                            [39m[1m[2m  0.40 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/shield-DRwAFci4.js                              [39m[1m[2m  0.40 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/book-open-D9RTQKzB.js                           [39m[1m[2m  0.42 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/wallet-CxgI5IH9.js                              [39m[1m[2m  0.43 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/triangle-alert-1_8iIY8Z.js                      [39m[1m[2m  0.43 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/users-DmRaonT_.js                               [39m[1m[2m  0.44 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/trash-2-bmJzzQYZ.js                             [39m[1m[2m  0.47 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/shield-check-LRUNVVdI.js                        [39m[1m[2m  0.47 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/graduation-cap-DB1pQw__.js                      [39m[1m[2m  0.50 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/file-text-Bd8p77au.js                           [39m[1m[2m  0.56 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/clipboard-list-CwJt4Mp3.js                      [39m[1m[2m  0.61 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/sparkles-B4HFyF4G.js                            [39m[1m[2m  0.66 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/settings-CQRS1z8r.js                            [39m[1m[2m  0.98 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/subjects-store-BVSP2Ja7.js                      [39m[1m[2m  1.40 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/StatCard-Cb3i_MIX.js                            [39m[1m[2m  1.53 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/registrations-store-HzYJSgfa.js                 [39m[1m[2m  1.89 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/grades-store-DMW2j1a7.js                        [39m[1m[2m  2.28 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/createLucideIcon-DcwYsw_g.js                    [39m[1m[2m  2.92 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/registrar.index-DwU2-YX4.js                     [39m[1m[2m  4.03 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/api-De8IU9_r.js                                 [39m[1m[2m  4.23 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/student.enrollment-CnC4Fese.js                  [39m[1m[2m  4.79 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.security-BSakoKKd.js                      [39m[1m[2m  5.15 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/finance.payments-4Nro8YpE.js                    [39m[1m[2m  5.16 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/finance.reports-kwPm_hq1.js                     [39m[1m[2m  5.28 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.analytics-D2_-qaXQ.js                     [39m[1m[2m  5.35 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.settings-3nWgTOAv.js                      [39m[1m[2m  5.68 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/registrar.records-Zv4NTsNd.js                   [39m[1m[2m  5.74 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/finance.index-BCzTqjLu.js                       [39m[1m[2m  5.77 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/paymongo.functions-DaV1bKV2.js                  [39m[1m[2m  6.12 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/registrar.enrollment-C4QH7dCt.js                [39m[1m[2m  6.24 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/finance.accounts-DVPhUCTX.js                    [39m[1m[2m  6.59 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/faculty.index-2PMjEoed.js                       [39m[1m[2m  6.62 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/registrar.transcripts-C7SPlkUs.js               [39m[1m[2m  7.64 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/index-DBsM1akS.js                               [39m[1m[2m  7.99 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/student.schedule-CYizFoeI.js                    [39m[1m[2m  7.99 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.users-CjnZ3gb3.js                         [39m[1m[2m  8.53 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/faculty.attendance-CU-So_fy.js                  [39m[1m[2m  8.76 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/button-B5zMrKtN.js                              [39m[1m[2m  8.92 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/student.grades-7BKoAQUx.js                      [39m[1m[2m  9.17 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/registrar.registrations-DaTLMRfj.js             [39m[1m[2m  9.93 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/student.index-B3MtZGD3.js                       [39m[1m[2m 10.72 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.index-CtK6r7HF.js                         [39m[1m[2m 11.44 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/_tanstack-start-manifest_v-CZkCPP-p.js          [39m[1m[2m 13.09 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/register-B5EBBhx4.js                            [39m[1m[2m 13.17 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/finance.clearance-C2-M5l0i.js                   [39m[1m[2m 15.89 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/faculty.classes-CngyCl_2.js                     [39m[1m[2m 21.35 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/index-CXIpSl0x.js                               [39m[1m[2m 34.72 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/student.finances-C2637x5O.js                    [39m[1m[2m 42.53 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/dashboard-BCTDbzQs.js                           [39m[1m[2m 58.28 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/index-R00lHmNp.js                               [39m[1m[2m 74.49 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/index-BYR97NV0.js                               [39m[1m[2m 78.69 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/faculty.grades-BiH5mQxy.js                      [39m[1m[2m 83.78 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/utils-BYfsx3cX.js                               [39m[1m[2m 96.96 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/types-lbe9CR-m.js                               [39m[1m[2m109.67 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/router-CrU6b_Lv.js                              [39m[1m[2m125.44 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/proxy-BRzeKIr_.js                               [39m[1m[2m270.24 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/worker-entry-BqSlRZ3T.js                        [39m[1m[33m740.02 kB[39m[22m
+[32m✓ built in 8.37s[39m
